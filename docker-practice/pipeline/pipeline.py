@@ -4,7 +4,7 @@ import sys
 print("arguments", sys.argv)
 
 month = int(sys.argv[1])
-print(f"Running pipeline for day {month}")
+print(f"Running pipeline for month {month}")
 
 #using pamdas
 #import sys
